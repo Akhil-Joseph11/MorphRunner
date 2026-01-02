@@ -1,0 +1,115 @@
+[
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 3.0 },
+    { "obstacleIndex": 1, "laneIndex": 1, "spawnY": 3.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 3.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 7.0 },
+    { "obstacleIndex": 12, "laneIndex": 1, "spawnY": 7.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 7.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 11.0 },
+    { "obstacleIndex": 2, "laneIndex": 1, "spawnY": 11.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 11.0 },
+    
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 15.0 },
+    { "obstacleIndex": 13, "laneIndex": 1, "spawnY": 15.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 15.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 19.0 },
+    { "obstacleIndex": 6, "laneIndex": 1, "spawnY": 19.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 19.0 },
+
+    { "obstacleIndex": 11, "laneIndex": 0, "spawnY": 22.0 },
+    { "obstacleIndex": 11, "laneIndex": 2, "spawnY": 22.0 },
+
+    { "obstacleIndex": 12, "laneIndex": 0, "spawnY": 25.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 25.0 },
+    { "obstacleIndex": 13, "laneIndex": 2, "spawnY": 25.0 },
+
+    { "obstacleIndex": 3, "laneIndex": 0, "spawnY": 29.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 29.0 },
+    { "obstacleIndex": 2, "laneIndex": 2, "spawnY": 29.0 },
+
+    { "obstacleIndex": 12, "laneIndex": 0, "spawnY": 33.0 },
+    { "obstacleIndex": 13, "laneIndex": 2, "spawnY": 33.0 },
+
+    { "obstacleIndex": 5, "laneIndex": 0, "spawnY": 37.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 37.0 },
+    { "obstacleIndex": 9, "laneIndex": 2, "spawnY": 37.0 },
+
+    { "obstacleIndex": 12, "laneIndex": 0, "spawnY": 41.0 },
+    { "obstacleIndex": 13, "laneIndex": 2, "spawnY": 41.0 },
+
+    { "obstacleIndex": 8, "laneIndex": 0, "spawnY": 45.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 45.0 },
+    { "obstacleIndex": 6, "laneIndex": 2, "spawnY": 45.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 49.0 },
+    { "obstacleIndex": 11, "laneIndex": 1, "spawnY": 49.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 49.0 },
+
+    { "obstacleIndex": 12, "laneIndex": 0, "spawnY": 52.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 52.0 },
+    { "obstacleIndex": 13, "laneIndex": 2, "spawnY": 52.0 },
+
+    { "obstacleIndex": 2, "laneIndex": 0, "spawnY": 55.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 55.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 59.0 },
+    { "obstacleIndex": 3, "laneIndex": 2, "spawnY": 59.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 63.0 },
+    { "obstacleIndex": 13, "laneIndex": 1, "spawnY": 63.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 63.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 66.0 },
+    { "obstacleIndex": 12, "laneIndex": 1, "spawnY": 66.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 66.0 },
+
+    { "obstacleIndex": 8, "laneIndex": 0, "spawnY": 69.0 },
+    { "obstacleIndex": 7, "laneIndex": 1, "spawnY": 69.0 },
+    { "obstacleIndex": 6, "laneIndex": 2, "spawnY": 69.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 72.0 },
+    { "obstacleIndex": 13, "laneIndex": 1, "spawnY": 72.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 72.0 },
+
+    { "obstacleIndex": 8, "laneIndex": 0, "spawnY": 75.0 },
+    { "obstacleIndex": 7, "laneIndex": 1, "spawnY": 75.0 },
+    { "obstacleIndex": 6, "laneIndex": 2, "spawnY": 75.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 78.0 },
+    { "obstacleIndex": 11, "laneIndex": 1, "spawnY": 78.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 78.0 },
+
+    { "obstacleIndex": 8, "laneIndex": 0, "spawnY": 81.0 },
+    { "obstacleIndex": 7, "laneIndex": 1, "spawnY": 81.0 },
+    { "obstacleIndex": 6, "laneIndex": 2, "spawnY": 81.0 },
+
+    { "obstacleIndex": 11, "laneIndex": 0, "spawnY": 84.0 },
+    { "obstacleIndex": 12, "laneIndex": 1, "spawnY": 84.0 },
+    { "obstacleIndex": 13, "laneIndex": 2, "spawnY": 84.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 87.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 87.0 },
+    { "obstacleIndex": 3, "laneIndex": 2, "spawnY": 87.0 },
+
+    { "obstacleIndex": 11, "laneIndex": 0, "spawnY": 90.0 },
+    { "obstacleIndex": 12, "laneIndex": 1, "spawnY": 90.0 },
+    { "obstacleIndex": 13, "laneIndex": 2, "spawnY": 90.0 },
+
+    { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 93.0 },
+    { "obstacleIndex": 8, "laneIndex": 1, "spawnY": 93.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 93.0 },
+
+    { "obstacleIndex": 11, "laneIndex": 0, "spawnY": 96.0 },
+    { "obstacleIndex": 12, "laneIndex": 1, "spawnY": 96.0 },
+    { "obstacleIndex": 13, "laneIndex": 2, "spawnY": 96.0 },
+
+    { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 99.0 },
+    { "obstacleIndex": 10, "laneIndex": 1, "spawnY": 99.0 },
+    { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 99.0 },
+
+    { "obstacleIndex": 0, "laneIndex": 2, "spawnY": 102.0 }        
+
+]

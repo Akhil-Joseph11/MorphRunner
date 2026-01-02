@@ -1,0 +1,103 @@
+[
+  { "obstacleIndex": 5, "laneIndex": 0, "spawnY": 4.0 },
+  { "obstacleIndex": 1, "laneIndex": 0, "spawnY": 6.0 },
+
+  { "obstacleIndex": 6, "laneIndex": 1, "spawnY": 10.0 },
+  { "obstacleIndex": 9, "laneIndex": 1, "spawnY": 12.0 },
+
+  { "obstacleIndex": 7, "laneIndex": 2, "spawnY": 16.0 },
+  { "obstacleIndex": 3, "laneIndex": 2, "spawnY": 18.0 },
+
+  { "obstacleIndex": 5, "laneIndex": 1, "spawnY": 22.0 },
+  { "obstacleIndex": 8, "laneIndex": 1, "spawnY": 24.0 },
+
+  { "obstacleIndex": 5, "laneIndex": 1, "spawnY": 30.0 }, 
+  { "obstacleIndex": 1, "laneIndex": 1, "spawnY": 32.0 }, 
+
+  { "obstacleIndex": 6, "laneIndex": 0, "spawnY": 35.0 }, 
+  { "obstacleIndex": 2, "laneIndex": 0, "spawnY": 37.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 40.0 }, 
+  { "obstacleIndex": 9, "laneIndex": 1, "spawnY": 40.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 40.0 }, 
+
+  { "obstacleIndex": 5, "laneIndex": 1, "spawnY": 43.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 43.0 },
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 46.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 46.0 }, 
+  { "obstacleIndex": 8, "laneIndex": 2, "spawnY": 46.0 }, 
+
+  { "obstacleIndex": 7, "laneIndex": 2, "spawnY": 50.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 50.0 }, 
+
+  { "obstacleIndex": 10, "laneIndex": 0, "spawnY": 53.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 53.0 }, 
+  { "obstacleIndex": 1, "laneIndex": 2, "spawnY": 53.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 56.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 56.0 }, 
+
+  { "obstacleIndex": 5, "laneIndex": 0, "spawnY": 59.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 59.0 }, 
+  { "obstacleIndex": 6, "laneIndex": 2, "spawnY": 59.0 }, 
+
+  { "obstacleIndex": 9, "laneIndex": 0, "spawnY": 62.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 62.0 }, 
+  { "obstacleIndex": 1, "laneIndex": 2, "spawnY": 62.0 }, 
+
+  { "obstacleIndex": 5, "laneIndex": 2, "spawnY": 65.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 68.0 }, 
+  { "obstacleIndex": 8, "laneIndex": 1, "spawnY": 68.0 }, 
+  { "obstacleIndex": 2, "laneIndex": 2, "spawnY": 68.0 }, 
+
+  { "obstacleIndex": 9, "laneIndex": 0, "spawnY": 71.0 }, 
+  { "obstacleIndex": 1, "laneIndex": 1, "spawnY": 71.0 }, 
+  { "obstacleIndex": 2, "laneIndex": 2, "spawnY": 71.0 }, 
+
+  { "obstacleIndex": 3, "laneIndex": 0, "spawnY": 74.0 }, 
+  { "obstacleIndex": 8, "laneIndex": 1, "spawnY": 74.0 }, 
+  { "obstacleIndex": 2, "laneIndex": 2, "spawnY": 74.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 79.0 }, 
+  { "obstacleIndex": 1, "laneIndex": 1, "spawnY": 79.0 }, 
+  { "obstacleIndex": 6, "laneIndex": 2, "spawnY": 79.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 82.0 }, 
+  { "obstacleIndex": 2, "laneIndex": 1, "spawnY": 82.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 82.0 }, 
+
+
+  { "obstacleIndex": 6, "laneIndex": 0, "spawnY": 85.0 }, 
+  { "obstacleIndex": 8, "laneIndex": 1, "spawnY": 85.0 }, 
+  { "obstacleIndex": 5, "laneIndex": 2, "spawnY": 85.0 }, 
+
+  { "obstacleIndex": 2, "laneIndex": 0, "spawnY": 88.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 88.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 88.0 }, 
+
+  { "obstacleIndex": 7, "laneIndex": 0, "spawnY": 92.0 }, 
+  { "obstacleIndex": 6, "laneIndex": 1, "spawnY": 92.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 92.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 95.0 }, 
+  { "obstacleIndex": 10, "laneIndex": 2, "spawnY": 95.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 95.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 98.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 98.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 100.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 1, "spawnY": 100.0 }, 
+
+  { "obstacleIndex": 5, "laneIndex": 1, "spawnY": 102.0 }, 
+  { "obstacleIndex": 2, "laneIndex": 0, "spawnY": 102.0 }, 
+  { "obstacleIndex": 3, "laneIndex": 2, "spawnY": 102.0 }, 
+
+  { "obstacleIndex": 4, "laneIndex": 0, "spawnY": 104.0 }, 
+  { "obstacleIndex": 4, "laneIndex": 2, "spawnY": 104.0 }, 
+
+  { "obstacleIndex": 0, "laneIndex": 2, "spawnY": 106.0 } 
+
+]
